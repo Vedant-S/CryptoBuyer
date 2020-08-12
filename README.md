@@ -5,7 +5,7 @@ CryptoBuyer is a prototype. It is a Marketplace that runs over the Etherem Block
 
 Since it runs over the blockchain it doesn't need to have any server.
 ___________________________________________________________________________________________________________________________________
-### How use it:
+### How to use it:
 ___________________________________________________________________________________________________________________________________
 You can run it by yourself.
 In order to run this files you have to use something that inject Web3 into the webpage, the simplest way is to use Chrome with [MetaMask Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) installed.
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 ###### removeProduct(uint \_productId)
 This function delete the product from the `products` array. It can be executed only by the product's seller.
 ___________________________________________________________________________________________________________________________________
-## What's next
+## What's next:
 The orders are not yet implemented.
 ___________________________________________________________________________________________________________________________________
 ### Author:
