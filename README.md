@@ -1,15 +1,13 @@
 ___________________________________________________________________________________________________________________________________
 # CryptoBuyer:
 ___________________________________________________________________________________________________________________________
-![CryptoBuyer Logo]()
-
 CryptoBuyer is a prototype. It is a Marketplace that runs over the Etherem Blockchain. It is able to manage products (and orders, too).
 
 Since it runs over the blockchain it doesn't need to have any server.
 ___________________________________________________________________________________________________________________________________
 ### How use it:
 ___________________________________________________________________________________________________________________________________
-You can run it by yourself or use my hosted files [here]().
+You can run it by yourself.
 In order to run this files you have to use something that inject Web3 into the webpage, the simplest way is to use Chrome with [MetaMask Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) installed.
 
 Remember, if you would like to use your machine to use it, you have to run a webserver (and not `file://`), otherwise MetaMask cannot inject the code due security restrictions.
