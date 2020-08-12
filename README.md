@@ -14,7 +14,7 @@ Remember, if you would like to use your machine to use it, you have to run a web
 ___________________________________________________________________________________________________________________________________
 ## Contract:
 ___________________________________________________________________________________________________________________________________
-The contract is developed using Solidity. It is actually deployed over Rinbeky Ethereum Test Net. You can you this code to understand how Solidity works. In order to deploy your own contract, you can refers to [this page]().
+The contract is developed using Solidity. It is actually deployed over Rinbeky Ethereum Test Net. You can you this code to understand how Solidity works. In order to deploy your own contract, you can refer to [this page]().
 ___________________________________________________________________________________________________________________________________
 #### API
 ___________________________________________________________________________________________________________________________________
