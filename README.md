@@ -1,7 +1,7 @@
 ___________________________________________________________________________________________________________________________________
-# CryptoBuyer - Decentralized Marketplace on Etherem Blockchain:
+# CryptoBuyer - Decentralized Marketplace on Ethereum Blockchain:
 ___________________________________________________________________________________________________________________________
-CryptoBuyer is a prototype. It is a Marketplace that runs over the Etherem Blockchain. It is able to manage products (and orders, too).
+CryptoBuyer is a prototype. It is a Marketplace that runs over the Ethereum Blockchain. It is able to manage products (and orders, too).
 
 Since it runs over the blockchain it doesn't need to have any server.
 ___________________________________________________________________________________________________________________________________
